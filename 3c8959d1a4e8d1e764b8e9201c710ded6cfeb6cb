@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c2145e4_0b71a67a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-09-27T19:53:53Z",
+      "side": 1,
+      "message": "previous setup is fine, no need of alot of unnecessary changes just for same output.",
+      "revId": "3c8959d1a4e8d1e764b8e9201c710ded6cfeb6cb",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
