@@ -16,6 +16,24 @@
       "message": "this is no longer updated now. is that intended?\ndoesnt this feel like unnecessary diff",
       "revId": "a11c8a5c2686e89a681645d532180febfd711098",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4facd16_d2fc065a",
+        "filename": "app/src/main/java/net/pixelos/ota/controller/UpdaterController.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-09-27T19:50:45Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "616da198_f46101d9",
+      "revId": "a11c8a5c2686e89a681645d532180febfd711098",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
